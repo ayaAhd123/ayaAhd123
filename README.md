@@ -128,7 +128,7 @@ Cloud              █████████████░░░░░░░ 
 ## 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayaAhd123/ayaAhd123/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ayaAhd123/ayaAhd123/gh-pages/github-contribution-grid-snake.svg" />
 </p>
 
 ---
